@@ -1,0 +1,46 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debug and log files
+*.log
+*.stackdump
+
+# Temporary files
+*~
+*.tmp
+*.swp
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# CMake build directory
+build/
+
+# Makefile artifacts
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+# CLion project files
+.idea/
+
+# Generated files
+*.a
+*.so
+*.dll
+*.dylib
+
+# Core dumps
+core
